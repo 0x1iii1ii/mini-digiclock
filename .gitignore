@@ -3,6 +3,7 @@
 #launch.json folder
 .vscode/
 .pio/
+.idea/
 #Cache folder
 .alcache/
 #Symbols folder
